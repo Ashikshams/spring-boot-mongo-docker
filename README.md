@@ -1,6 +1,6 @@
 # Build Project Using Maven
 
-Maven is java based build tool to generate executable 
+Maven is sanjeev based build tool to generate executable 
 
 packages(jar, ear,war) for java based projects.
 
